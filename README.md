@@ -22,7 +22,7 @@ Nested List
   - **Sub element 1**
   - *Sub Element 2*
 - Element 2
-  - *Sub Element 2*
-  - **Sub Elmenet 2*
+  - *Sub Element 1*
+  - **Sub Elmenet 2**
  
   
