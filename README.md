@@ -18,11 +18,11 @@ Ordered List
 3. Element 3
 
 Nested List
--Element 1
-  -**Sub element 1**
-  -*Sub Element 2*
--Element 2
-  -*Sub Element 2*
-  -**Sub Elmenet 2*
+- Element 1
+  - **Sub element 1**
+  - *Sub Element 2*
+- Element 2
+  - *Sub Element 2*
+  - **Sub Elmenet 2*
  
   
