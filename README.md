@@ -7,7 +7,7 @@ Bold text and italic text: **Github Repository for CPE 322**: *Engineering Desig
 [fig1](https://sit.instructure.com/courses/64902/files/10881934/preview)
 
 Unordered List
--Element 1
--Element 2
--*Element 3*
--**Element 4**
+- Element 1
+- Element 2
+- *Element 3*
+- **Element 4**
