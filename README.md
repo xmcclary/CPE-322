@@ -28,10 +28,10 @@ Nested List
  Images
  
  
-###Old Stevens Logo
+### Old Stevens Logo
  ![This is the old stevens logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eSgV8l6fRGhmhw5UreaJC-7vObKKygAyaCAcieKjsQ&s)
  
-###New Stevens Logo
+### New Stevens Logo
  
  ![This is the new stevens logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnLrEVnMrIppjkSitLs4ldXKpTmcUXxbliYBVI9OYmxAY-YeSjZOGNJ0qk311STsa8yI&usqp=CAU)
   
