@@ -26,4 +26,11 @@ clear
 ![Screenshot 2023-05-05 164106](https://user-images.githubusercontent.com/98131730/236564764-c5ef4528-5889-433c-98cc-1928f4ac09d6.png)
 man uname
 ![Screenshot 2023-05-05 164140](https://user-images.githubusercontent.com/98131730/236564893-f978e086-a733-46e6-b5bd-cbef323b68a4.png)
+uname -a
+![Screenshot 2023-05-05 165554](https://user-images.githubusercontent.com/98131730/236567327-a91af84a-c952-4ee8-96bc-34923ba384d0.png)
+ifconfig ping localhost
+![Screenshot 2023-05-05 165719](https://user-images.githubusercontent.com/98131730/236567551-416d1b6b-40dc-4c1d-85fe-978da0c67fe6.png)
+netstat
+![Screenshot 2023-05-05 165900](https://user-images.githubusercontent.com/98131730/236567748-e01febfb-b848-4e45-be38-444455b2576e.png)
+
 
