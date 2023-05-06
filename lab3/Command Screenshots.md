@@ -15,4 +15,5 @@ address.py '40.74480675, -74.02532862031404'
 ![image](https://user-images.githubusercontent.com/98131730/236647999-81127656-9d67-467c-b3f8-0106abfa3216.png)
 
 cpu.py
-![Screenshot 2023-05-06 173004](https://user-images.githubusercontent.com/98131730/236648011-4be963e3-dd04-4dc8-b035-053f4abc3fb1.png)
+
+![Screenshot 2023-05-06 175428](https://user-images.githubusercontent.com/98131730/236648049-1a2127c9-092f-4c24-ac5e-a90dd0c69ed8.png)
