@@ -17,3 +17,10 @@ address.py '40.74480675, -74.02532862031404'
 cpu.py
 
 ![Screenshot 2023-05-06 175428](https://user-images.githubusercontent.com/98131730/236648049-1a2127c9-092f-4c24-ac5e-a90dd0c69ed8.png)
+
+py batter.py(using desktop)
+![Screenshot 2023-05-06 175737](https://user-images.githubusercontent.com/98131730/236648068-b37a1bdf-cd02-44ac-972d-2afc172a8610.png)
+
+
+py documentstats.py document.txt
+![image](https://user-images.githubusercontent.com/98131730/236648108-4311b4b4-0b1f-4c91-be58-1d069f033b14.png)
